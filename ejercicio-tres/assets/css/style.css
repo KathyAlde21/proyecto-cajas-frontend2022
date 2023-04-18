@@ -1,0 +1,31 @@
+/* EJERCICIO 3 */
+*{
+  box-sizing: border-box;
+}
+
+.padreCajasBanderas{
+  left: 200px;
+  position: absolute;
+}
+
+.superior{
+  display: inline-block;
+  width: 300px;
+  height: 200px;
+  position: relative;
+  padding: 10px;
+  left: 70px;
+  top: 70px;
+
+}
+
+.inferior{
+  width: 300px;
+  height: 200px;
+  position: relative;
+  padding: 10px;
+  left: 70px;
+  top: 70px;
+  display: inline-block;
+
+}

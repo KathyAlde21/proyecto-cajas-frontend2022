@@ -1,0 +1,37 @@
+/* EJERCICIO 3 */
+.padre1{
+  background-color: green;
+}
+
+.div1{
+  width: 300px;
+  height: 100px;
+  border: 1px solid blue;
+  display: inline-block;
+}
+
+.div2{
+  width: 300px;
+  height: 100px;
+  padding: 10px;
+  border: 1px solid red;
+  display: inline-block;
+}
+
+
+.div3{
+  width: 300px;
+  height: 100px;
+  border: 1px solid blue;
+  box-sizing: border-box;
+
+}
+
+.div4{
+  width: 300px;
+  height: 100px;
+  padding: 10px;
+  border: 1px solid red;
+  box-sizing: border-box;
+
+}
